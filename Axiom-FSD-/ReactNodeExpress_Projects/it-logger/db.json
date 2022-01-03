@@ -1,0 +1,37 @@
+{
+  "logs": [
+    {
+      "message": "d",
+      "attention": true,
+      "tech": "ali khan",
+      "date": "2021-10-12T07:12:32.181Z",
+      "id": 1
+    },
+    {
+      "message": "asdfasd",
+      "attention": true,
+      "tech": "ali khan",
+      "date": "2021-12-18T12:33:04.163Z",
+      "id": 2
+    },
+    {
+      "message": "new log atasldfja;sldfj",
+      "attention": true,
+      "tech": "ali khan",
+      "date": "2021-12-18T13:46:47.828Z",
+      "id": 3
+    }
+  ],
+  "tech": [
+    {
+      "id": "3",
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "ali",
+      "lastName": "khan",
+      "id": "nB7D2Ia"
+    }
+  ]
+}
